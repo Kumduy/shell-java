@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Shell-java:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Shell_java_jar</output-path>
+    <root id="archive" name="Shell-java.jar">
+      <element id="module-output" name="Shell-java" />
+    </root>
+  </artifact>
+</component>
